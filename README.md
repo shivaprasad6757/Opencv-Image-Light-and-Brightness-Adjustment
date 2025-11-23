@@ -19,4 +19,4 @@ It’s an interactive mini-tool that allows users to control image intensity man
 - Simple event loop for continuous real-time response
 
 # **DEMO VIDEO**
-
+[Video](https://youtu.be/JxI720kN75E)
