@@ -17,3 +17,6 @@ It’s an interactive mini-tool that allows users to control image intensity man
 - Arithmetic operations on images (cv2.add, cv2.subtract)
 - Named Windows (cv2.namedWindow) for dynamic display updates
 - Simple event loop for continuous real-time response
+
+# **DEMO VIDEO**
+
