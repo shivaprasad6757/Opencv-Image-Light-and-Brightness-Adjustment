@@ -1,4 +1,4 @@
-# Image-Light-and-Brightness-Adjustment
+# Opencv Image-Light-and-Brightness-Adjustment
 
 📝 Description
 
